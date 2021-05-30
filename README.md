@@ -1,5 +1,7 @@
 # Kernel-config
-experimental USE flag on.
+config for clevo w350s in other branch
+
+experimental USE flag on - enables compilation for zen2.
 laptop kernel config for Lenovo P14s on gentoo-sources kernel
 
 "p14s" default hostname set
